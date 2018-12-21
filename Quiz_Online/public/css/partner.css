@@ -1,0 +1,36 @@
+
+.filter-button
+{
+    font-size: 18px;
+    border: 1px solid #f8ac00;
+    border-radius: 5px;
+    text-align: center;
+    color: #049b7c;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    background-color: #f8ac00;
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #f8ac00;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #f8ac00;
+}
+.btn-defaults:active .filter-button:active
+{
+    background-color: #f8ac00;
+    color: white;
+    text-decoration: none;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+.a{
+    text-decoration: none;
+    color: #ffffff;
+}

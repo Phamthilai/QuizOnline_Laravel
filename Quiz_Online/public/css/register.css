@@ -1,0 +1,46 @@
+
+#h3
+{
+	color: #049b7c;
+}
+
+.modal-content{
+	height: 450px;
+	width: 600px;
+}
+
+.register{
+	margin-left: 25px;
+    margin-right: 77px;
+}
+.register-form 
+{
+	padding-left: 30%;
+}
+.register-form input{
+	width: 200%;
+
+	}
+
+.text_filed{
+	margin-top: 7px;
+}
+
+.text{
+	height: 45px;
+	border-radius: 0px;
+	margin-left: 5px;
+}
+
+.link_register {
+	margin-top: 8%;	
+	padding: 15px 0px 15px 0px;
+	
+}
+.btn-size{
+	width: 200%;
+	height: 200%;
+	margin-left: 5px;
+	color: #ffffff;
+	background-color: #f8ac00; 			
+}
